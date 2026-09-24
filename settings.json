@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cozycorn.aternos.me,
+    "ip": "cozycorn.aternos.me",
     "port": 26993,
     "version": "1.21.1"
   },
