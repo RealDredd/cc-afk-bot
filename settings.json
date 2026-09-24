@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "cozycorn.aternos.me,
+    "port": 26993,
     "version": "1.21.1"
   },
   "position": {
